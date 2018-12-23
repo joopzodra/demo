@@ -1,3 +1,3 @@
 # demo
 
-[Boeken-app](./app/boeken/)
+[Boeken-app](./apps/boeken/)
